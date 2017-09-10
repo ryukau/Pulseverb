@@ -1,7 +1,7 @@
 # Pulseverb
 https://ryukau.github.io/Pulseverb/
 
-BLITを利用したリバーブのインパルス応答をレンダリングします。
+[BLIT](https://ccrma.stanford.edu/~stilti/papers/blit.pdf)を利用したリバーブのインパルス応答をレンダリングします。
 
 ## 使い方
 Playボタンでインパルス応答が再生されます。
